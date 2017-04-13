@@ -52,8 +52,9 @@ Pod::Spec.new do |s|
   #  Specify a social_media_url where others can refer to, for example a twitter
   #  profile URL.
   #
-
-  s.author             = { "chenxl1234" => "chenxlcofco@163.com" }
+  
+  s.author             = { "xlchenk" => "1182639219@qq.com" }
+  #s.author             = { "chenxl1234" => "chenxlcofco@163.com" }
   # Or just: s.author    = "chenxl1234"
   # s.authors            = { "chenxl1234" => "chenxlcofco@163.com" }
   # s.social_media_url   = "http://twitter.com/chenxl1234"
