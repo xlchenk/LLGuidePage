@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "LLGuidePage"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "这是一个开机引导页的小框架."
 
   # This description is used to generate tags and improve search results.
@@ -28,7 +28,7 @@ Pod::Spec.new do |s|
                      "这是一个开机引导页的小框架."
                    DESC
 
-  s.homepage     = "https://github.com/xlchenk/XLGuidePage"
+  s.homepage     = "https://github.com/xlchenk/LLGuidePage"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -80,7 +80,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/xlchenk/XLGuidePage.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/xlchenk/LLGuidePage.git", :tag => "#{s.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -91,10 +91,10 @@ Pod::Spec.new do |s|
   #  Not including the public_header_files will make all headers public.
   #
 
-  s.source_files  = "XLGuidePage", "XLGuidePage/**/*.{h,m}"
-  s.exclude_files = "XLGuidePage/Exclude"
+  s.source_files  = “LLGuidePage", “LLGuidePage/**/*.{h,m}"
+  s.exclude_files = “LLGuidePage/Exclude"
 
-  # s.public_header_files = "XLGuidePage/**/*.h"
+  # s.public_header_files = “LLGuidePage/**/*.h"
 
 
   # ――― Resources ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
