@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "LLGuidePage"
-  s.version      = "0.0.2"
+  s.version      = “0.0.3”
   s.summary      = "这是一个开机引导页的小框架."
 
   # This description is used to generate tags and improve search results.
